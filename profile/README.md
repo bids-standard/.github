@@ -1,4 +1,18 @@
+<img src="./BIDS_logo/BIDS_logo_white_transparent_background_crop.png#gh-dark-mode-only" alt="bids-logo" width="600"/>
+<img src="./BIDS_logo/BIDS_logo_black_transparent_background_crop.png#gh-light-mode-only" alt="bids-logo" width="600"/>
+
 # 👋 Welcome to BIDS github organization 👋
+
+BIDS currently supports the following data modalities with more to come in the future:
+
+- MRI
+- MEG
+- EEG
+- iEEG
+- behavioral
+- physiological
+- PET
+- microscopy
 
 Click the following links if you want to
 
