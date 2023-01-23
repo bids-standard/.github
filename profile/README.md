@@ -1,7 +1,8 @@
-# 👋 Welcome to BIDS github organization 👋
+# 👋 Welcome to the BIDS GitHub organization 👋
 
-Click the following links if you want to
+Click the following links if you want to:
 
+- [visit the official BIDS website](https://bids.neuroimaging.io/)
 - [read the BIDS specification](https://bids-specification.readthedocs.io/en/latest/)
 - [validate a BIDS dataset](https://bids-standard.github.io/bids-validator/)
 - [get started with BIDS](https://bids-standard.github.io/bids-starter-kit/)
@@ -12,7 +13,7 @@ Click the following links if you want to
   <!-- - R -->
 - [find a list of BIDS converters](https://bids.neuroimaging.io/benefits.html#converters)
 - [find a list of BIDS extension proposals](https://bids.neuroimaging.io/get_involved.html)
-- [get information on how to submit a new BIDS extension proposal](https://docs.google.com/document/d/1pWmEEY-1-WuwBPNy5tDAxVJYQ9Een4hZJM06tQZg8X4/edit)
+- [get information on how to submit a new BIDS extension proposal](https://bids.neuroimaging.io/bep_guide.html)
 
 The source code and content for many of those tools can be found in the
 repositories listed below.
@@ -26,4 +27,4 @@ Otherwise feel free to open an
 on any of those repositories if you have specific questions or requests
 
 As a reminder, all contributors have to adhere to our
-[Code of Conduct](../CODE_OF_CONDUCT.md).
+[Code of Conduct](https://github.com/bids-standard/.github/blob/master/CODE_OF_CONDUCT.md).
