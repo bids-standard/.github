@@ -5,7 +5,6 @@ Click the following links if you want to:
 - [visit the official BIDS website](https://bids.neuroimaging.io/)
 - [read the BIDS specification](https://bids-specification.readthedocs.io/en/latest/)
 - [validate a BIDS dataset](https://bids-standard.github.io/bids-validator/)
-- [get started with BIDS](https://bids-standard.github.io/bids-starter-kit/)
 - [find BIDS datasets examples](https://github.com/bids-standard/bids-examples#bids-examples)
 - work with BIDS dataset in
   - [Python](https://bids-standard.github.io/pybids/)
