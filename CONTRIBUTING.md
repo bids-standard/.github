@@ -117,7 +117,7 @@ Several of the BIDS repositories have a `.pre-commit-config.yaml` configuration
 at the root of the repository.
 
 Contributors to those repositories can optionally make use of this
-to run systemacially run style-checkers and linters 
+to run systemacially run style-checkers and linters
 with every commit.
 
 To use pre-commit this way:
@@ -272,7 +272,7 @@ in the comment box (pictured below).
 
 ![BIDS-suggest-box](commenting_images/BIDS_suggest.png "BIDS-suggest")
 
-Once the button is clicked the highlighted text will be copied 
+Once the button is clicked the highlighted text will be copied
 into the comment box and formatted as a
 [Markdown code block](https://help.github.com/en/github/writing-on-github/creating-and-highlighting-code-blocks).
 
