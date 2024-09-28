@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# BIDS Code of Conduct
 
 ## Our Pledge
 

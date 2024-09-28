@@ -1,7 +1,12 @@
-# Contributing BIDS
+# Contributing to BIDS
 
-We hope that these guidelines are designed
-to make it as easy as possible to get involved.
+These contributing guidelines should apply
+to most, if not all, the repositories in the BIDS github organization.
+
+Each repository may also have more specific guidelines.
+
+These guidelines are designed to make it as easy as possible
+for you to get involved.
 If you have any questions that aren't discussed below,
 please let us know
 by [opening an issue](#understanding-issues).
@@ -41,6 +46,7 @@ we expect that all contributions adhere to our [Code of Conduct](CODE_OF_CONDUCT
 ## Contributing through GitHub
 
 [Git](https://git-scm.com/) is a really useful tool for version control.
+
 [GitHub](https://github.com/) sits on top of git and supports collaborative and
 distributed working.
 
@@ -69,10 +75,11 @@ about communicating through issues.
 **Issues** are individual pieces of work that need to be completed,
 or decisions that need to be made to move the project forwards.
 
-A general guideline:
-if you find yourself tempted to write a great big issue
-that is difficult to describe as one unit of work,
-please consider splitting it into two or more issues.
+!!! note "General guideline"
+
+    If you find yourself tempted to write a great big issue
+    that is difficult to describe as one unit of work,
+    please consider splitting it into two or more issues.
 
 Issues are assigned [labels](#issue-labels)
 that explain how they relate to the overall project's goals
