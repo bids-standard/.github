@@ -111,7 +111,7 @@ The current list of labels are
 
 > Git hook scripts are useful for identifying simple issues before submission to code review.
 
-For more information on Git hooks, see: https://pre-commit.com/.
+For more information on Git hooks and pre-commit, check the pre-commit [documentation](https://pre-commit.com/).
 
 Several of the BIDS repositories have a `.pre-commit-config.yaml` configuration
 at the root of the repository.
@@ -136,14 +136,14 @@ To uninstall the pre-commit hooks, run `pre-commit uninstall`.
 We appreciate all contributions to BIDS.
 **THANK YOU** for helping us build these useful resources.
 
-#### 1. Comment on an existing issue or open a new issue referencing your addition
+### 1. Comment on an existing issue or open a new issue referencing your addition
 
 This allows other members of the BIDS team to confirm
 that you aren't overlapping with work that's currently underway
 and that everyone is on the same page
 with the goal of the work you're going to carry out.
 
-#### 2. [Fork](https://help.github.com/articles/fork-a-repo/) [this repository](https://github.com/bids-standard/bids-specification) to your profile
+### 2. [Fork](https://help.github.com/articles/fork-a-repo/) [this repository](https://github.com/bids-standard/bids-specification) to your profile
 
 This is now your own unique copy of a repository.
 Changes here won't affect anyone else's work,
@@ -152,14 +152,14 @@ so it's a safe space to explore edits to the specification!
 Make sure to [keep your fork up to date](https://help.github.com/articles/syncing-a-fork/) with the upstream repository,
 otherwise you can end up with lots of dreaded [merge conflicts](https://help.github.com/articles/about-merge-conflicts/).
 
-#### 3. Make the changes you've discussed
+### 3. Make the changes you've discussed
 
 Try to keep the changes focused.
 If you submit a large amount of work in all in one go,
 it will be much more work for whomever is reviewing your pull request.
 Please detail the changes you are attempting to make.
 
-#### 4. Submit a [pull request](https://help.github.com/articles/about-pull-requests/)
+### 4. Submit a [pull request](https://help.github.com/articles/about-pull-requests/)
 
 Please keep the title of your pull request short
 but informative in case it appears in a changelog.
@@ -168,12 +168,18 @@ Use one of the following prefixes in the title of your pull request:
 
 -   `[ENH]` - enhancement of the repository
     that adds a new feature
+
 -   `[FIX]` - fix of a typo, a bug, or language clarification
+
 -   `[INFRA]` - changes to the infrastructure:
     for example automating the specification release.
+
 -   `[MISC]` - everything else that cannot fit into another category
+
 -   `[REF]` - Refactoring
+
 -   `[SCHEMA]` - changes to the BIDS schema and/or related code
+
 -   `[STY]` - Stylistic change or code formatting.
 
 If you are opening a pull request to obtain early feedback,
