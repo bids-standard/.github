@@ -375,6 +375,13 @@ we encourage you to enter or update your information in the
 [Contributors wiki page](https://github.com/bids-standard/bids-specification/wiki/Recent-Contributors)
 according to the instructions listed there.
 
+!!! note "Why it matters."
+
+    BIDS contributors get to vote every year
+    to elect new members of the BIDS steering group.
+    So by contributing to BIDS and making sure your contribution is listed,
+    you can also ensure your voice is heard with regards to where BIDS is going.
+
 ### List of BIDS contributors
 
 You can see a list of contributors in the
