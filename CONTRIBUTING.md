@@ -340,16 +340,46 @@ reviewer as a co-author.
 
 ## Recognizing contributions
 
-Several BIDS repositories follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification,
-so we welcome and recognize all contributions from documentation to testing to code development.
-You can see a list of contributors in the
-[contributors appendix](https://bids-specification.readthedocs.io/en/stable/appendices/contributors.html)
-of the BIDS specification.
+We aim to follow the [allContributors specification](https://allcontributors.org/docs/en/specification),
+so we welcome and recognize a broad list of contributions types
+from documentation to testing to code development.
+
+For more concrete examples, contributions can take the form of any of the following (but are not just restricted to those):
+
+-   contribution to the BIDS specification content,
+    the BIDS schema or their maintenance
+    (for example helping with the rendering of the specification, the documentation of the schema...),
+
+-   leading or contributing to a BIDS extension proposal
+    even it has not been merged,
+
+-   developing OR contributing to a BIDS tool
+    (like the BIDS validator, a converter, a BIDS app or any other type of BIDS friendly tool...),
+
+-   regularly answering questions on Neurostars on BIDS related topics
+    (for example: BIDS, fmriprep, BIDS conversion...),
+
+-   improving the documentation around BIDS
+    (like improving the BIDS website, creating a tutorial for BIDS or improving the doc of some BIDS tools...)
+
+-   providing some example dataset to add to the BIDS examples repository...
+
+For more ideas of what constitute a contribution,
+see the [list of Emoji used by the allContributors project](https://allcontributors.org/docs/en/emoji-key)
+to categorize contributions.
+
+### Adding yourself as a BIDS contributor
 
 If you have made any type of contributions to BIDS,
 we encourage you to enter or update your information in the
 [Contributors wiki page](https://github.com/bids-standard/bids-specification/wiki/Recent-Contributors)
 according to the instructions listed there.
+
+### List of BIDS contributors
+
+You can see a list of contributors in the
+[contributors appendix](https://bids-specification.readthedocs.io/en/stable/appendices/contributors.html)
+of the BIDS specification.
 
 ## Thank you!
 
