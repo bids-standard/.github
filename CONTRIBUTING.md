@@ -31,8 +31,8 @@ We also have a
 Google Group, although this is largely now an archive of previous conversations.
 
 <!-- TODO update link -->
-Moving forward, we encourage all members to contribute here
-on [GitHub](https://github.com/bids-standard/bids-specification)
+Moving forward, we encourage all members to contribute on the different repositories
+on of the BIDS [GitHub organization](https://github.com/bids-standard)
 or on the [NeuroStars](https://neurostars.org/tags/bids) Discourse Forum,
 under the `bids` tag.
 
@@ -65,9 +65,7 @@ Remember that you can ask us any questions you need to along the way.
 ## Understanding issues
 
 <!-- TODO update link -->
-Every project on GitHub uses
-[issues](https://github.com/bids-standard/bids-specification/issues)
-slightly differently.
+Every project on GitHub uses issues slightly differently.
 
 The following outlines how BIDS developers think
 about communicating through issues.
@@ -88,16 +86,18 @@ and immediate next steps.
 ### Issue labels
 
 <!-- TODO update links -->
-The current list of labels are
-[here](https://github.com/bids-standard/bids-specification/labels) and include:
+We use issue labels in our repisotires.
+See for example those for the [bids-specification repository](https://github.com/bids-standard/bids-specification/labels).
 
--   [![Help wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)](https://github.com/bids-standard/bids-specification/labels/help%20wanted)
+Most repositories will include the following labels:
+
+-   ![Help wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)
     _These issues contain a task that a member of the team has determined we need additional help with._
 
     If you feel that you can contribute to one of these issues,
     we especially encourage you to do so!
 
--   [![Opinions wanted](https://img.shields.io/badge/-opinions%20wanted-84b6eb.svg)](https://github.com/bids-standard/bids-specification/labels/opinions%20wanted)
+-   ![Opinions wanted](https://img.shields.io/badge/-opinions%20wanted-84b6eb.svg)
     _These issues hold discussions where we're especially eager for feedback._
 
     Ongoing discussions benefit from broad feedback.
@@ -105,7 +105,7 @@ The current list of labels are
     where decisions are being considered,
     so please join the conversation!
 
--   [![Community](https://img.shields.io/badge/-community-%23ddcc5f.svg)](https://github.com/bids-standard/bids-specification/labels/community)
+-   ![Community](https://img.shields.io/badge/-community-%23ddcc5f.svg)
     _These issues are related to building and supporting the BIDS community._
 
     In addition to the specification itself,
@@ -117,8 +117,6 @@ The current list of labels are
 ## Using pre-commit hooks
 
 > Git hook scripts are useful for identifying simple issues before submission to code review.
-
-For more information on Git hooks and pre-commit, check the pre-commit [documentation](https://pre-commit.com/).
 
 Several of the BIDS repositories have a `.pre-commit-config.yaml` configuration
 at the root of the repository.
@@ -138,15 +136,15 @@ pre-commit install
 
 To uninstall the pre-commit hooks, run `pre-commit uninstall`.
 
-## Making a change with a pull request
+For more information on Git hooks and pre-commit, check the pre-commit [documentation](https://pre-commit.com/).
 
-We appreciate all contributions to BIDS.
-**THANK YOU** for helping us build these useful resources.
+
+## Making a change with a pull request
 
 ### 1. Comment on an existing issue or open a new issue referencing your addition
 
 This allows other members of the BIDS team to confirm
-that you aren't overlapping with work that's currently underway
+that you are not overlapping with work that's currently underway
 and that everyone is on the same page
 with the goal of the work you're going to carry out.
 
@@ -193,8 +191,7 @@ If you are opening a pull request to obtain early feedback,
 but the changes are not ready to be merged
 (also known as a "work in progress" pull request,
 sometimes abbreviated by `WIP`)
-please use a
-[draft pull request](https://github.blog/2019-02-14-introducing-draft-pull-requests/).
+please use a [draft pull request](https://github.blog/2019-02-14-introducing-draft-pull-requests/).
 
 A member of the BIDS Specification team will review your changes
 to confirm that they can be merged into the main codebase.
@@ -225,7 +222,7 @@ Our primary method of adding to or enhancing BIDS occurs in the form of
 [pull requests](https://help.github.com/articles/about-pull-requests/).
 
 BIDS Extension Proposals
-([BEPs](https://docs.google.com/document/d/1pWmEEY-1-WuwBPNy5tDAxVJYQ9Een4hZJM06tQZg8X4/))
+([BEPs](https://bids-website.readthedocs.io/en/latest/extensions/beps.html))
 are submitted as pull requests,
 and commenting on pull requests is an important way of participating in the BIDS community.
 
@@ -234,14 +231,14 @@ This section outlines how to comment on a pull request.
 ### Navigating to open pull requests
 
 <!-- TODO update link -->
-The list of pull requests can be found by clicking on the "Pull requests" tab
-in the [BIDS-Specification repository](https://github.com/bids-standard/bids-specification).
+The list of pull requests can be found by clicking on the "Pull requests" tab of any repository.
+See those of the [BIDS-Specification repository](https://github.com/bids-standard/bids-specification).
 
 ![BIDS-mainpage](commenting_images/BIDS_GitHub_mainpage.png "BIDS_GitHub_mainpage")
 
 ### Selecting an open pull request
 
-In this example we will be navigating to our
+In this example we will be navigating to the
 [BIDS common derivatives pull request](https://github.com/bids-standard/bids-specification/pull/265).
 
 ![BIDS-pr-list](commenting_images/BIDS_pr_list.png "BIDS_pr_list")
