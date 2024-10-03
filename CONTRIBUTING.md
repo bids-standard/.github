@@ -234,14 +234,14 @@ This section outlines how to comment on a pull request.
 The list of pull requests can be found by clicking on the "Pull requests" tab of any repository.
 See those of the [BIDS-Specification repository](https://github.com/bids-standard/bids-specification).
 
-![BIDS-mainpage](commenting_images/BIDS_GitHub_mainpage.png "BIDS_GitHub_mainpage")
+![BIDS-mainpage](./commenting_images/BIDS_GitHub_mainpage.png "BIDS_GitHub_mainpage")
 
 ### Selecting an open pull request
 
 In this example we will be navigating to the
 [BIDS common derivatives pull request](https://github.com/bids-standard/bids-specification/pull/265).
 
-![BIDS-pr-list](commenting_images/BIDS_pr_list.png "BIDS_pr_list")
+![BIDS-pr-list](./commenting_images/BIDS_pr_list.png "BIDS_pr_list")
 
 ### Pull request description
 
@@ -250,14 +250,14 @@ of what this pull request is seeking to address.
 Descriptions are important for reviewers and the community
 to gain context into what the pull request is achieving.
 
-![BIDS-pr](commenting_images/BIDS_pr.png "BIDS_pr")
+![BIDS-pr](./commenting_images/BIDS_pr.png "BIDS_pr")
 
 ### Generally commenting on a pull request
 
 At the bottom of the pull request page,
 a comment box is provided for general comments and questions.
 
-![BIDS-comment](commenting_images/BIDS_comment.png "BIDS-comment")
+![BIDS-comment](./commenting_images/BIDS_comment.png "BIDS-comment")
 
 ### Specific comments on a pull request
 
@@ -271,7 +271,7 @@ To comment on a specific line,
 hover over it and click the blue plus sign (pictured below).
 Multiple lines can be selected by clicking and dragging the plus sign.
 
-![BIDS-specific-comment](commenting_images/BIDS_file_comment.png "BIDS-specific-comment")
+![BIDS-specific-comment](./commenting_images/BIDS_file_comment.png "BIDS-specific-comment")
 
 #### Suggesting text
 
@@ -280,20 +280,20 @@ which allow you to propose specific wording for consideration.
 To make a suggestion, click the plus/minus (±) icon
 in the comment box (pictured below).
 
-![BIDS-suggest-box](commenting_images/BIDS_suggest.png "BIDS-suggest")
+![BIDS-suggest-box](./commenting_images/BIDS_suggest.png "BIDS-suggest")
 
 Once the button is clicked the highlighted text will be copied
 into the comment box and formatted as a
 [Markdown code block](https://help.github.com/en/github/writing-on-github/creating-and-highlighting-code-blocks).
 
-![BIDS-suggest-text](commenting_images/BIDS_suggest_text.png "BIDS-suggest-box")
+![BIDS-suggest-text](./commenting_images/BIDS_suggest_text.png "BIDS-suggest-box")
 
 The "Preview" tab in the comment box will show your suggestion
 as it will be rendered.
 The "Suggested change" box will highlight the differences
 between the original text and your suggestion.
 
-![BIDS-suggest-change](commenting_images/BIDS_suggest_change.png "BIDS-suggest-change")
+![BIDS-suggest-change](./commenting_images/BIDS_suggest_change.png "BIDS-suggest-change")
 
 A comment may be submitted on its own by clicking "Add single comment".
 Several comments may be grouped by clicking "Start a review".
@@ -313,7 +313,7 @@ Moreover it gives the opportunity to give credit to the reviewers for their cont
 To do this, you must click on the `Files changed` tab
 at the top of the page of a pull request.
 
-![BIDS_pr_files_changed](commenting_images/BIDS_pr_files_changed.png "BIDS_pr_files_changed")
+![BIDS_pr_files_changed](./commenting_images/BIDS_pr_files_changed.png "BIDS_pr_files_changed")
 
 From there you can browse the different files changed
 and the 'diff' for each of them (what line was changed and what the change consist of).
@@ -321,19 +321,19 @@ You can also see comments and directly change suggestions made by reviewers.
 
 You can add each suggestion one by one or group them together in a batch.
 
-![BIDS_pr_accept_comment](commenting_images/BIDS_pr_accept_comment.png "BIDS_pr_accept_comment")
+![BIDS_pr_accept_comment](./commenting_images/BIDS_pr_accept_comment.png "BIDS_pr_accept_comment")
 
 If you decide to batch the suggestions to add several of them at once,
 you must scroll back to the top of the 'Files changed' page
 and the `commit suggestions` button will let you add all those suggestions
 as a single commit.
 
-![BIDS_pr_commit_batch](commenting_images/BIDS_pr_commit_batch.png "BIDS_pr_commit_batch")
+![BIDS_pr_commit_batch](./commenting_images/BIDS_pr_commit_batch.png "BIDS_pr_commit_batch")
 
 Once those suggestions are committed the commit information should mention the
 reviewer as a co-author.
 
-![BIDS_pr_reviewer_credit](commenting_images/BIDS_pr_reviewer_credit.png "BIDS_pr_reviewer_credit")
+![BIDS_pr_reviewer_credit](./commenting_images/BIDS_pr_reviewer_credit.png "BIDS_pr_reviewer_credit")
 
 ## Recognizing contributions
 
