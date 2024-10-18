@@ -8,7 +8,7 @@ Click the following links if you want to:
 - [find BIDS datasets examples](https://github.com/bids-standard/bids-examples#bids-examples)
 - work with BIDS dataset in
   - [Python](https://bids-standard.github.io/pybids/)
-  - [MATLAB / Octave](https://bids-matlab.readthedocs.io/en/latest/index.html)
+  - [MATLAB / Octave](https://bids-matlab.readthedocs.io/en/main/index.html)
   <!-- - R -->
 - [find a list of BIDS converters](https://bids-website.readthedocs.io/en/latest/tools/converters.html)
 - [find a list of BIDS extension proposals](https://bids-website.readthedocs.io/en/latest/extensions/beps.html)
