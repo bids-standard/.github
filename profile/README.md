@@ -10,9 +10,9 @@ Click the following links if you want to:
   - [Python](https://bids-standard.github.io/pybids/)
   - [MATLAB / Octave](https://bids-matlab.readthedocs.io/en/main/index.html)
   <!-- - R -->
-- [find a list of BIDS converters](https://bids-website.readthedocs.io/en/latest/tools/converters.html)
-- [find a list of BIDS extension proposals](https://bids-website.readthedocs.io/en/latest/extensions/beps.html)
-- [how to submit a new BIDS extension proposal](https://bids-website.readthedocs.io/en/latest/extensions/general-guidelines.html)
+- [find a list of BIDS converters](https://bids.neuroimaging.io/tools/converters.html)
+- [find a list of BIDS extension proposals](https://bids.neuroimaging.io/extensions/beps.html)
+- [how to submit a new BIDS extension proposal](https://bids.neuroimaging.io/extensions/general-guidelines.html)
 
 The source code and content for many of those tools can be found in the
 repositories listed below.
@@ -26,4 +26,4 @@ Otherwise feel free to open an
 on any of those repositories if you have specific questions or requests
 
 As a reminder, all contributors have to adhere to our
-[Code of Conduct](https://bids-website.readthedocs.io/en/latest/collaboration/bids_github/CODE_OF_CONDUCT.html).
+[Code of Conduct](https://bids.neuroimaging.io/collaboration/bids_github/CODE_OF_CONDUCT.html).

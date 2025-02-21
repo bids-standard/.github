@@ -222,7 +222,7 @@ Our primary method of adding to or enhancing BIDS occurs in the form of
 [pull requests](https://help.github.com/articles/about-pull-requests/).
 
 BIDS Extension Proposals
-([BEPs](https://bids-website.readthedocs.io/en/latest/extensions/beps.html))
+([BEPs](https://bids.neuroimaging.io/extensions/beps.html))
 are submitted as pull requests,
 and commenting on pull requests is an important way of participating in the BIDS community.
 
