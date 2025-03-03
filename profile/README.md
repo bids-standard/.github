@@ -12,7 +12,7 @@ Click the following links if you want to:
   <!-- - R -->
 - [find a list of BIDS converters](https://bids.neuroimaging.io/tools/converters.html)
 - [find a list of BIDS extension proposals](https://bids.neuroimaging.io/extensions/beps.html)
-- [how to submit a new BIDS extension proposal](https://bids.neuroimaging.io/extensions/general-guidelines.html)
+- [how to submit a new BIDS extension proposal](https://bids.neuroimaging.io/extensions/process.html)
 
 The source code and content for many of those tools can be found in the
 repositories listed below.
