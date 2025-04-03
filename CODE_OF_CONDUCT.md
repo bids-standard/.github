@@ -305,7 +305,7 @@ If the reported person provides additional context, the BIDS Code of Conduct wor
 
 ### Follow up with the reporter {#follow-up-with-the-reporter}
 
-A person who makes a report should receive a follow-up email stating what action was taken in response to the report. If the work group decided no response was needed, they should provide an email explaining why it was not a Code of Conduct violation. Reports that are not made in good faith may receive no response.
+A person who makes a report should receive a follow-up email stating what action was taken in response to the report. If the work group decided no response was needed, they should provide an email explaining why it was not a Code of Conduct violation. Reports that are determined not to have been made in good faith may receive no response.
 
 The follow-up email should be sent no later than one week after the receipt of the report. If deliberation or follow-up with the reported person takes longer than one week, the work group should send a status email to the reporter.
 
