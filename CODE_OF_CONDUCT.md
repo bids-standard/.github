@@ -55,6 +55,8 @@ If you find that you need to make a report and you cannot find the appropriate C
 
 #### General BIDS reporting procedure
 
+The *BIDS Code of Conduct working group* is comprised of maintainers and members of the steering group.
+
 The best way to contact the BIDS Code of Conduct working group is by email at [bids.maintenance+coc@gmail.com](mailto:bids.maintenance+coc@gmail.com). The maintainers monitoring this alias are listed at [https://bids.neuroimaging.io/governance\#bids-maintainers-group](https://bids.neuroimaging.io/contact/index.html).
 
 In the event of a conflict of interest, you may contact any BIDS Maintainer or BIDS Steering Group Member directly at their contact information available [here](https://bids.neuroimaging.io/collaboration/governance.html#bids-steering-groupl). Response times may be longer if you contact someone directly, and the person will communicate with the reporter to establish a response group without a conflict of interest.
@@ -66,18 +68,17 @@ If needed (e.g., if there are conflicts of interest with current maintainers / s
 
 #### Report data
 
-When you make a report via email or phone, please include:
+When you make a report via email or phone, please provide as much information as possible. Information that is helpful may include:
 
-* Your contact info (so we can get in touch with you if we need to follow up)
-* Date and time of the incident
+* Your contact information (so we can get in touch with you if we need to follow up).
+* Date and time of the incident you are reporting.
 * Location of incident (can be online)
-* Whether the incident is ongoing
-* Description of the incident
-* Identifying information of the reported person: name, physical appearance, height, clothing, voice accent, identifying badge information such as company name, ribbons, or badge number
-* Additional circumstances surrounding the incident
-* Other people involved in or witnesses to the incident and their contact information or description
+* Whether the incident is ongoing.
+* Description of the incident.
+* Identifying information of the reported person: name, physical appearance, height, clothing, voice accent, identifying badge information such as company name, ribbons, or badge number.
+* Additional circumstances surrounding the incident.
+* Other people involved in or witnesses to the incident and their contact information or description.
 
-Please provide as much information as possible.
 
 #### Confidentiality
 
@@ -89,29 +90,29 @@ In some cases we may determine that a public statement will need to be made. If 
 
 #### Report Handling Procedure
 
-When you make a report to an incident responder, they will gather information about the incident according to the BIDS Procedure For Incident Response.
+When you make a report to a member of the Code of Conduct working group, they will gather information about the incident according to the BIDS Procedure For Incident Response.
 
-After an incident responder takes the report, they will immediately establish a 3 person Code of Conduct Response Group with at least  1 (past or present) BIDS steering group members and 1 BIDS maintainer, unless there is a conflict of interest, in which case any non-interested parties will be contacted.
+After an incident responder takes the report, they will immediately establish a 3 person Code of Conduct Response Group with at least 1 (past or present) BIDS steering group members and 1 BIDS maintainer, unless there is a conflict of interest, in which case any non-interested parties will be contacted.
 
 If the incident is ongoing and needs to be immediately addressed, any of the members of the 3-person CoC response group may take appropriate action to ensure the safety of everyone involved. If the situation requires it, this may take the form of a referral to an appropriate non-BIDS entity, including local law enforcement. The BIDS community is not equipped to handle emergency situations.
 
-If the incident is less urgent, the report will be discussed by the Code of Conduct Working Group, which will meet to determine an appropriate response. Examples of possible incident responses are outlined in the BIDS Procedure For Incident Response.
+If the incident is less urgent, the report will be discussed by the response group, which will meet to determine an appropriate response. Examples of possible incident responses are outlined in the BIDS Procedure For Incident Response.
 
 Procedures for in-person gatherings at e.g., conferences and workshops are likely handled by the local organizing committee to discuss all incidents and determine any necessary follow-up actions. Incidents can additionally fall within the scope of the BIDS CoC (e.g., if an incident occurs while a member of the community is speaking as a representative of BIDS).
 
 #### Following up with reporters
 
-Within one week of an incident report, a member of the Code of Conduct Working Group, or one of the lead responders, will follow up with the person who made the report and provided their contact information. The follow up may include:
+Within one week of an incident report, a member of the response group, will follow up with the person who made the report and provided their contact information. The follow up may include:
 
-* An acknowledgment that the Code of Conduct responders discussed the situation
-* Whether or not the report was determined to be a violation of the Code of Conduct
-* What actions (if any) were taken to address the reported behavior
+* An acknowledgment that the Code of Conduct responders discussed the situation.
+* Whether or not the report was determined to be a violation of the Code of Conduct.
+* What actions (if any) were taken to address the reported behavior.
 
 In some cases, the lead responders may need to ask additional questions about the incident in order to identify the reported person.
 
 #### Conflict of Interest
 
-If an incident responder has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any conversations involving handling the incident.
+If an member of the response group has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any conversations involving handling the incident.
 
 Examples of conflicts of interest include:
 
@@ -123,9 +124,9 @@ Examples of conflicts of interest include:
 * The reporter or reported person works in the same institution as you.
 * The reporter or reported person is someone you work closely with. This could be someone on your team or someone who works on the same project as you (e.g., in multi-institutional collaborations).
 
-Committee members do not need to state why they have a conflict of interest, only that one exists. Other work group members should not ask why the person has a conflict of interest. Anyone who has a conflict of interest will remove themselves from the discussion of the incident, and recuse themselves from voting on a response to the report.
+Response group members do not need to state why they have a conflict of interest, only that one exists. Other response group members should not ask why the person has a conflict of interest. Anyone who has a conflict of interest will remove themselves from the discussion of the incident, and recuse themselves from decisions on a response to the report.
 
-Should more than two of the BIDS lead incident responders need to recuse themselves, another BIDS steering committee member or maintainer will step in as a temporary lead incident responder.
+If members of the response group need to recuse themselves due to conflict of interests, another BIDS steering committee member or maintainer will be asked to join the response group in their place.
 
 ### Code of Conduct Enforcement Procedure
 
@@ -133,15 +134,15 @@ This document summarizes the procedures the BIDS Code of Conduct response group 
 
 #### Summary of processes
 
-When the BIDS maintainers receive a report of a possible Code of Conduct violation, it will:
+When the BIDS CoC Working Group receives a report of a possible Code of Conduct violation, it will:
 
 * Acknowledge the receipt of the report.
 * Evaluate conflicts of interest.
 * Establish a **3 person BIDS code of conduct response group** with at least 1 (past or present) BIDS steering group member and 1 BIDS maintainer without a conflict of interest to handle the report.
 
-The working group will then:
+The response group will then:
 
-* Call a meeting of work group members.
+* Call a meeting of response group members.
 * Evaluate the reported incident.
 * Propose a behavioral modification plan.
 * Propose consequences for the reported behavior.
@@ -179,18 +180,18 @@ Reports which involve higher risk or higher impact may face more severe conseque
 
 ### Propose a behavioral modification plan
 
-The work group will determine a concrete behavioral modification plan that ensures the inappropriate behavior is not repeated. The work group will also discuss what actions may need to be taken if the reported person does not agree to the behavioral modification plan.
+The response group will determine a concrete behavioral modification plan that ensures the inappropriate behavior is not repeated. The response group will also discuss what actions may need to be taken if the reported person does not agree to the behavioral modification plan.
 
 What follows are examples of possible behavioral modification plans for incidents that occur in online spaces under the scope of this Code of Conduct. This behavioral modification list is not inclusive, and the BIDS Code of Conduct work group reserves the right to take any action it deems necessary.
 
-* Requiring that the reported person not use specific language
-* Requiring that the reported person not join in on specific types of discussions
-* Requiring that the reported person not send private messages to a community member
-* Requiring that the reported person not join specific communication channels
-* Removing the reported person from administrator or moderator rights to community infrastructure
-* Removing a volunteer from their duties and responsibilities
-* Removing a person from leadership of relevant organizations
-* Removing a person from membership of relevant organizations
+* Requiring that the reported person not use specific language.
+* Requiring that the reported person not join in on specific types of discussions.
+* Requiring that the reported person not send private messages to a community member.
+* Requiring that the reported person not join specific communication channels.
+* Removing the reported person from administrator or moderator rights to community infrastructure.
+* Removing a volunteer from their duties and responsibilities.
+* Removing a person from leadership of relevant organizations.
+* Removing a person from membership of relevant organizations.
 
 ### Propose consequences
 
@@ -198,24 +199,24 @@ What follows are examples of possible consequences to an incident report. This c
 
 Possible private responses to an incident include:
 
-* Nothing, if the behavior was determined to not be a Code of Conduct violation
-* A verbal or emailed warning
-* A final warning
-* Temporarily removing the reported person from the online community
-* Permanently removing the reported person from the online community
-* Publishing an account of the incident
+* Nothing, if the behavior was determined to not be a Code of Conduct violation.
+* A verbal or emailed warning.
+* A final warning.
+* Temporarily removing the reported person from the online community.
+* Permanently removing the reported person from the online community.
+* Publishing an account of the incident.
 
-### Work group vote
+### Response group vote
 
-Decisions on the behavioral modification plans and consequences will be determined by a majority vote of the BIDS Code of Conduct work group.
+Decisions on the behavioral modification plans and consequences will be determined by a majority vote of the BIDS Code of Conduct response group.
 
 ### Administrators/moderators approval
 
-Once the work group has approved the behavioral modification plans and consequences, they will communicate the recommended response to the BIDS maintainers. The work group should not state who reported this incident. They should attempt to anonymize any identifying information from the report.
+Once the response group has approved the behavioral modification plans and consequences, they will communicate the recommended response to the BIDS maintainers. The response group does not need to state who reported this incident. They should attempt to anonymize any identifying information from the report.
 
-The BIDS maintainers are required to respond back with whether they accept the recommended response to the report. If they disagree with the recommended response, they should provide a detailed response or additional context as to why they disagree. BIDS maintainers are encouraged to respond within a week.
+The BIDS CoC Working Group will be required to respond back with whether they accept the recommended response to the report. If they disagree with the recommended response, they should provide a detailed response or additional context as to why they disagree. The Working Group is encouraged to respond within a week.
 
-In cases where the BIDS maintainers disagree on the suggested resolution for a report, the BIDS Code of Conduct work group may choose to notify the BIDS steering group.
+In cases where the Working Group disagrees on the suggested resolution for a report, the BIDS Code of Conduct work group may choose to notify the BIDS steering group.
 
 ### Follow up with the reported person
 
@@ -242,16 +243,16 @@ The follow-up email should be sent no later than one week after the receipt of t
 
 Depending on how the Code of Conduct response group is set up, there may be different places where information about the Code of Conduct reports may be accessible:
 
-* Personal email of Code of Conduct committee members
-* Archives of committee mailing lists
-* Logs from committee online chats
-* Shared online documents, such as Google Docs or Next Cloud documents
+* Personal email of Code of Conduct response group members.
+* Archives of working group mailing lists.
+* Logs from response group / working group online chats.
+* Shared online documents, such as Google Docs.
 
-In all cases, documents and notes should only be available to committee members who do not have a conflict of interest for the report. This requires communities to choose documentation tools that will meet their privacy needs.
+In all cases, documents and notes should only be available to working group and response group members who do not have a conflict of interest for the report. This requires careful attention to the permissions settings of google docs, which are prone to wide visibility unless proactively restricted.
 
 ### Committee online discussion
 
-A Code of Conduct committee may have an online, real-time discussion forum, such as Slack, or Mattermost. If the online chat platform allows, it is recommended to set the committee channel to have past history not be available to new committee members who join the channel, or to create ad-hoc channels to discuss specific reports.
+A Code of Conduct response group may have an online, real-time discussion forum. This will typically be Mattermost. If the online chat platform allows, it is recommended to set the response group channel to have past history not be available to new response group members who join the channel, or, better still to create ad-hoc channels to discuss specific reports.
 
 When a report comes in and a discussion needs to happen in an online space, care needs to be taken to avoid conflicts of interest. In the committee chat channel, state 'We have a report that involves \[REPORTED PERSON\]'. Do not say who was the reporter or who were witnesses if the report was sent to an individual committee member. Ask which committee members do not have a conflict of interest. Add those committee members to a group discussion, separate from the committee channel. If a committee member does not respond, do not add them to the new group discussion. If a committee member finds they have a conflict of interest because of who reported the incident or who witnessed it, they should recuse themselves from the discussion.
 
@@ -261,7 +262,7 @@ If no online real-time discussion forum is used, committee members without a con
 
 ### Shared documentation
 
-The Code of Conduct committee should keep two types of shared documents:
+The Code of Conduct Working Group should keep two types of shared documents:
 
 * A spreadsheet with the status of open and closed cases
 * A separate document for each report
@@ -270,16 +271,16 @@ The Code of Conduct committee should keep two types of shared documents:
 
 The spreadsheet with status of open and closed cases should have the following format:
 
-| Safety risk? | Risk of repeating? | Status | Code Name | Date & Time | Actions needed | Resolution |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Yes | Yes | Ongoing | home shelf | 07/07 8:30am and 07/08 12:30pm | Team on the lookout for reported person | Temporary ban for the remainder of the event, reevaluate attendance for next year |
-| No | Maybe | Resolved | stunned bulb | 07/07 8:00pm | \- | Verbal warning |
+| Safety risk? | Risk of repeating? | Status | Code Name | Date & Time | Actions needed | Resolution | Response group members |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Yes | Yes | Ongoing | home shelf | 07/07 8:30am and 07/08 12:30pm | Team on the lookout for reported person | Temporary ban for the remainder of the event, reevaluate attendance for next year | Ariel Rokem, Chris Markiewicz, Camille Maumet |
+| No | Maybe | Resolved | stunned bulb | 07/07 8:00pm | \- | Verbal warning | Eric Earl, Remi Gau, Dora Hermes |
 
-Keep resolutions and notes vague enough that enforcement team members with a conflict of interest don't know the details of the incident. Use gender-neutral language when describing the reported person in the spreadsheet.
+Keep resolutions and notes vague enough that Working Group members with a conflict of interest don't know the details of the incident. Use gender-neutral language when describing the reported person in the spreadsheet.
 
 #### Report Documentation
 
-Each report should be assigned a code name, using an online random phrase generator. The code name should be used in the document's title. Only committee members without a conflict of interest should have access to the report documentation.
+Each report should be assigned a code name, using an online random phrase generator. The code name should be used in the document's title. Only Working Group members without a conflict of interest should have access to the report documentation.
 
 Report documents should include:
 
@@ -294,22 +295,20 @@ Report documents should include:
 
 ### Ongoing Documentation of Event and Community Bans
 
-The BIDS-maintainers shall maintain a list of people who have been banned from BIDS-organized events including:
+The BIDS maintainers shall maintain a list of people who have been banned from BIDS-organized events including:
 
-* The effective date of their ban
+* The effective date of their ban.
 * The duration of their bans, or whether the ban is permanent.
 
 This list shall only be viewable by the maintainers.
 
 ### Privacy Concerns
 
-There are some common privacy pitfalls to online tools like Google Docs. Make sure to always share the document with committee members who don't have a conflict of interest, rather than turning link sharing on. This prevents people outside of the committee from accessing the documents.
+There are some common privacy pitfalls to online tools like Google Docs. Make sure to always share the document with Working Group members who don't have a conflict of interest, rather than turning link sharing on. This prevents people outside of thefrom accessing the documents.
 
-Another common issue is that when a folder is shared with the whole committee, even if a person doesn't have edit or view access to an individual report, they can still see the document's title. This can give information away, such as the person who made the report. Some communities use initials in the report title instead. That can still reveal information, and it makes it hard to talk about report status in public spaces (such as an event). The committee may want to assign a code name to each report, and reference that name in the report title and status spreadsheet. You can use an online random phrase generator to create the code name.
+Another common issue is that when a folder is shared with the whole  Working Group, even if a person doesn't have edit or view access to an individual report, they can still see the document's title. This can give information away, such as the person who made the report. Some communities use initials in the report title instead. That can still reveal information, and it makes it hard to talk about report status in public spaces (such as an event). The committee may want to assign a code name to each report, and reference that name in the report title and status spreadsheet. You can use an online random phrase generator to create the code name.
 
-When on-boarding a new Code of Conduct committee member, they should be provided with a list of names of people who have been reported in active Code of Conduct incidents. The new committee member should state whether they have any conflicts of interest with reviewing documentation for those cases. If not, they will be given edit access to the report documents.
-
-This procedure was adapted from the Python Software Foundation Community Member Procedure For Reporting Code of Conduct Incidents, which was adapted from the PyCon US reporters guide, which was itself adapted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Responding_to_reports)”, the [Django Project reporting guidelines](https://www.djangoproject.com/conduct/reporting/) (CC BY 3.0), with additions by [Otter Tech](https://otter.technology/).
+When on-boarding a new Code of Conduct Working Group member, they should be provided with a list of names of people who have been reported in active Code of Conduct incidents. The new  Working Group member should state whether they have any conflicts of interest with reviewing documentation for those cases. If not, they will be given edit access to the report documents.
 
 ## Reference
 
