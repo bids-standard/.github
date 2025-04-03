@@ -55,9 +55,9 @@ If you find that you need to make a report and you cannot find the appropriate C
 
 #### General BIDS reporting procedure
 
-The best way to contact the BIDS Code of Conduct working group is by email at [bids.maintenance+coc@gmail.com](mailto:bids.maintenance+coc@gmail.com). The maintainers monitoring this alias are listed at [https://bids.neuroimaging.io/governance\#bids-maintainers-group](https://bids.neuroimaging.io/governance#bids-maintainers-group).
+The best way to contact the BIDS Code of Conduct working group is by email at [bids.maintenance+coc@gmail.com](mailto:bids.maintenance+coc@gmail.com). The maintainers monitoring this alias are listed at [https://bids.neuroimaging.io/governance\#bids-maintainers-group](https://bids.neuroimaging.io/contact/index.html).
 
-In the event of a conflict of interest, you may contact any BIDS Maintainer or BIDS Steering Group Member directly at their contact information available here. Response times may be longer if you contact someone directly, and the person will communicate with the reporter to establish a response group without a conflict of interest.
+In the event of a conflict of interest, you may contact any BIDS Maintainer or BIDS Steering Group Member directly at their contact information available [here](https://bids.neuroimaging.io/collaboration/governance.html#bids-steering-groupl). Response times may be longer if you contact someone directly, and the person will communicate with the reporter to establish a response group without a conflict of interest.
 
 If needed (e.g., if there are conflicts of interest with current maintainers / steering group members), you can also contact some previous members of the BIDS steering group to make a report:
 
