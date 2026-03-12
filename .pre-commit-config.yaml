@@ -22,6 +22,8 @@ repos:
     hooks:
     -   id: yamlfmt
         args: [--mapping, '4', --sequence, '4', --offset, '0']
+# Changes made to this CI should be followed with an update to it's origin
+# file at github.com/bids-standard/.github/.pre-commit-config.yaml
 -   repo: https://github.com/astral-sh/ruff-pre-commit
     rev: v0.15.5
     hooks:
