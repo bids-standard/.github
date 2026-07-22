@@ -48,7 +48,7 @@ we expect that all contributions adhere to our [Code of Conduct](CODE_OF_CONDUCT
 In the context of discussions happening in the BIDS community -- including but not limited to comments, issues, pull requests -- if Generative AI was used by a BIDS community member then the following rules apply:
 
 1. Disclosure. If AI was used in the process that led to a contribution to BIDS then this must be disclosed as part of the contribution. Please specify which AI tool was used and for which purpose (e.g. translation, proofreading / summarizing documents, etc.).
-2. Responsability. Each contribution built with AI must be carefully proofread by the BIDS community member. Ultimately, the BIDS community member who post a contribution is taking responsibility for its content. 
+2. Responsability. Each contribution built with AI must be carefully proofread by the BIDS community member. Ultimately, the BIDS community member who post a contribution is taking responsibility for its content.
 3. Moderation. Moderators can flag and hide/remove contributions (including comments and/or code) preemptively if they think the contribution may not follow the BIDS general guidelines. Any moderation attempt must be transferred to BIDS maintainers and steering who will oversee the review. A list of all moderations will be kept and reviewed periodically by BIDS steering.
 
 
