@@ -210,7 +210,7 @@ when you make a change in response to a review.
 
 GitHub has a [nice introduction](https://help.github.com/articles/github-flow/)
 to the pull request workflow,
-but please [get in touch](#get-in-touch) if you have any questions.
+but please get in touch if you have any questions.
 
 ## Example pull request
 
