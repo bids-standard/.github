@@ -92,7 +92,7 @@ In some cases we may determine that a public statement will need to be made. If 
 
 When you make a report to a member of the Code of Conduct working group, they will gather information about the incident according to the BIDS Procedure For Incident Response.
 
-After an incident responder takes the report, they will immediately establish a 3 person Code of Conduct Response Group with at least 1 (past or present) BIDS steering group members and 1 BIDS maintainer, unless there is a conflict of interest, in which case any non-interested parties will be contacted.
+After an incident responder takes the report, they will immediately establish a 3 person Code of Conduct Response Group with at least 1 (past or present) BIDS steering group members and 1 BIDS maintainer, unless conflicts of interest prevent such an arrangement, in which case any disinterested party may be recruited.
 
 If the incident is ongoing and needs to be immediately addressed, any of the members of the 3-person CoC response group may take appropriate action to ensure the safety of everyone involved. If the situation requires it, this may take the form of a referral to an appropriate non-BIDS entity, including local law enforcement. The BIDS community is not equipped to handle emergency situations.
 
@@ -102,7 +102,7 @@ Procedures for in-person gatherings at e.g., conferences and workshops are likel
 
 #### Following up with reporters
 
-Within one week of an incident report, a member of the response group, will follow up with the person who made the report and provided their contact information. The follow up may include:
+Within one week of an incident report, a member of the response group will follow up with the reporter. The follow up may include:
 
 * An acknowledgment that the Code of Conduct responders discussed the situation.
 * Whether or not the report was determined to be a violation of the Code of Conduct.
@@ -112,7 +112,7 @@ In some cases, the lead responders may need to ask additional questions about th
 
 #### Conflict of Interest
 
-If an member of the response group has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any conversations involving handling the incident.
+If a member of the working group has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any conversations involving handling the incident.
 
 Examples of conflicts of interest include:
 
@@ -220,7 +220,7 @@ In cases where the Working Group disagrees on the suggested resolution for a rep
 
 ### Follow up with the reported person
 
-The BIDS Code of Conduct work group will work with online community administrators/moderators to draft a response to the reported person. The email should contain:
+The BIDS Code of Conduct response group will work with online community administrators/moderators to draft a response to the reported person. The email should contain:
 
 * A description of the person's behavior in neutral language
 * The negative impact of that behavior
@@ -231,11 +231,11 @@ The work group should not state who reported this incident. They should attempt 
 
 ### Decide further responses
 
-If the reported person provides additional context, the BIDS Code of Conduct work group may need to re-evaluate the behavioral modification plan and consequences.
+If the reported person provides additional context, the BIDS Code of Conduct response group may need to re-evaluate the behavioral modification plan and consequences.
 
 ### Follow up with the reporter
 
-A person who makes a report should receive a follow-up email stating what action was taken in response to the report. If the work group decided no response was needed, they should provide an email explaining why it was not a Code of Conduct violation. Reports that are determined not to have been made in good faith may receive no response.
+A person who makes a report should receive a follow-up email stating what action was taken in response to the report. If the response group decided no response was needed, they should provide an email explaining why it was not a Code of Conduct violation. Reports that are determined not to have been made in good faith may receive no response.
 
 The follow-up email should be sent no later than one week after the receipt of the report. If deliberation or follow-up with the reported person takes longer than one week, the work group should send a status email to the reporter.
 
