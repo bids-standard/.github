@@ -210,7 +210,7 @@ when you make a change in response to a review.
 
 GitHub has a [nice introduction](https://help.github.com/articles/github-flow/)
 to the pull request workflow,
-but please [get in touch](#get-in-touch) if you have any questions.
+but please get in touch if you have any questions.
 
 ## Example pull request
 
@@ -337,7 +337,7 @@ reviewer as a co-author.
 
 ## Recognizing contributions
 
-We aim to follow the [allContributors specification](https://allcontributors.org/docs/en/specification),
+We aim to follow the [allContributors specification](https://allcontributors.org/en/reference/specification/),
 so we welcome and recognize a broad list of contributions types
 from documentation to testing to code development.
 
@@ -362,7 +362,7 @@ For more concrete examples, contributions can take the form of any of the follow
 -   providing some example dataset to add to the BIDS examples repository...
 
 For more ideas of what constitute a contribution,
-see the [list of Emoji used by the allContributors project](https://allcontributors.org/docs/en/emoji-key)
+see the [list of Emoji used by the allContributors project](https://allcontributors.org/en/reference/emoji-key/)
 to categorize contributions.
 
 ### Adding yourself as a BIDS contributor
